@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook><Person><id>1</id><name>Kitty</name><email>Kitty@baidu.com</email><PhoneNumbers><phonenumber>0755-12345</phonenumber><phonetype>HOME</phonetype><phonenumber>134-2211-1122</phonenumber><phonetype>MOBILE</phonetype></PhoneNumbers></Person><Person><id>2</id><name>Lily</name><email>Lily@baidu.com</email><PhoneNumbers><phonenumber>0755-54321</phonenumber><phonetype>HOME</phonetype><phonenumber>134-1122-3344</phonenumber><phonetype>MOBILE</phonetype></PhoneNumbers></Person></AddressBook>

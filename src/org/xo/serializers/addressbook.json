@@ -1,0 +1,24 @@
+{
+	"persons":
+	[
+		{
+		 "email":"Kitty@baidu.com",
+		 "id":1,"name":
+		 "Kitty",
+		 "phoneNumbers":
+		 	[
+		 		{"phoneNumber":"0755-12345","phoneType":"HOME"},
+		 		{"phoneNumber":"134-2211-1122","phoneType":"MOBILE"}
+		 	]
+		 },
+		 {
+		  "email":"Lily@baidu.com",
+		  "id":2,"name":"Lily",
+		  "phoneNumbers":
+		  	[
+		  		{"phoneNumber":"0755-54321","phoneType":"HOME"},
+		  		{"phoneNumber":"134-1122-3344","phoneType":"MOBILE"}
+		  	]
+		  }
+	]
+}

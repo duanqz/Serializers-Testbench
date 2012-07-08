@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<o>
+	<persons class="array">
+		<e class="object">
+			<email type="string">Kitty@baidu.com</email>
+			<id type="number">1</id>
+			<name type="string">Kitty</name>
+			<phoneNumbers class="array">
+				<e class="object">
+					<phoneNumber type="string">0755-12345</phoneNumber>
+					<phoneType type="string">HOME</phoneType>
+				</e>
+				<e class="object">
+					<phoneNumber type="string">134-2211-1122</phoneNumber>
+					<phoneType type="string">MOBILE</phoneType>
+				</e>
+			</phoneNumbers>
+		</e>
+		<e class="object">
+			<email type="string">Lily@baidu.com</email>
+			<id type="number">2</id>
+			<name type="string">Lily</name>
+			<phoneNumbers class="array">
+				<e class="object">
+					<phoneNumber type="string">0755-54321</phoneNumber>
+					<phoneType type="string">HOME</phoneType>
+				</e>
+				<e class="object">
+					<phoneNumber type="string">134-1122-3344</phoneNumber>
+					<phoneType type="string">MOBILE</phoneType>
+				</e>
+			</phoneNumbers>
+		</e>
+	</persons>
+</o>
